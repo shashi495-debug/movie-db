@@ -1,0 +1,18 @@
+.header {
+  background: black !important;
+
+  h5, .link, .link div {
+    color: whitesmoke;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+
+  .title {
+    border: 3px solid #dd8800;
+    background: #dd8800;
+    color: #111;
+    font-weight: bold;
+    padding: 5px 25px;
+    border-radius: 20px;
+  }
+}
